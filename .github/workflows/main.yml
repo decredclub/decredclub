@@ -1,10 +1,10 @@
 name: Deploy to Github Pages
-  on:
+on:
     push:
       branches:
         - master
         - main
-  jobs:
+jobs:
     deploy:
       runs-on: ubuntu-latest
       steps:
