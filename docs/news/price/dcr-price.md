@@ -2,17 +2,7 @@
 
 # **Decred代币行情**
 
-哪种编程语言是你最喜欢的？
-
-## 选项
-
-- [ ] Python
-- [ ] JavaScript
-- [ ] Java
-- [ ] C++
-
-
-<h3 class="txt2">本网站由decred社区资助开发与维护</h3>
+<h3 class="txt2">本网站由decred社区开发与维护</h3>
 
 <!DOCTYPE html>
 <html>
@@ -171,6 +161,3 @@ function joinTelegramGroup() {
     })
   </script>
 
-
-
-  网页中添加两个框统计：1、第一个框统计当前dcr-usdt涨幅和价格。2、第二个框统计dcr-usdt当天成交量，3、对这两个格子添加样式，两个框并排展示，样式需要圆角，如果价格为涨，两个框颜色变红、如果当天价格下跌两个框背景色变为绿色；
