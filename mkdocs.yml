@@ -66,12 +66,7 @@ plugins:
       lang: 
         - en
         - zh
-  - social: #社交卡片设置
-      cards_dir: assets/images/social
-      cards_color:
-        fill: "#0FF1CE"
-        text: "#FFFFFF"
-      cards_font: Ubuntu
+
 
 nav: #导航菜单设置（一共设置了6个板块）
  - 首页: 
