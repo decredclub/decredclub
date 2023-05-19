@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>网页标题</title>
+  <style>
+    .grid {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .grid-item {
+      flex-basis: 45%;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 10px;
+      text-align: center;
+      font-size: 18px;
+      color: #fff;
+    }
+
+    .red {
+      background-color: #ff5050;
+    }
+
+    .green {
+      background-color: #2ecc71;
+    }
+  </style>
+  <script>
+    // 获取当前dcr-usdt价格和涨跌幅的数据
+    fetch("https://api.coingecko.com/api/v3/simple/price?ids=decred&vs_currencies=usd&include_24hr_change=true")
+      .then(response => response.json())
+      .then(data => {
+        var price = data.decred.usd.toFixed(2);
+        var change = data.decred.usd_24h_change.toFixed(2);
+
+        var statsContainer1 = document.getElementById("stats-container1");
+        var statsHtml1 = `
+          <p>当前价格: $${price}</p>
+          <p>涨跌幅: ${change}%</p>
+        `;
+
+        statsContainer1.innerHTML = statsHtml1;
+
+        if (parseFloat(change) > 0) {
+          statsContainer1.classList.add("red");
+        } else if (parseFloat(change) < 0) {
+          statsContainer1.classList.add("green");
+        }
+
+        // 获取当天dcr-usdt成交量的数据
+        fetch("https://api.coingecko.com/api/v3/coins/decred/market_chart?vs_currency=usd&days=1")
+          .then(response => response.json())
+          .then(data => {
+            var prices = data.prices;
+            var volume = prices.reduce((total, price) => total + price[1], 0).toFixed(2);
+
+            var statsContainer2 = document.getElementById("stats-container2");
+            var statsHtml2 = `
+              <p>当天成交量: $${volume}</p>
+            `;
+
+            statsContainer2.innerHTML = statsHtml2;
+
+            if (parseFloat(change) > 0) {
+              statsContainer2.classList.add("red");
+            } else if (parseFloat(change) < 0) {
+              statsContainer2.classList.add("green");
+            }
+          })
+          .catch(error => {
+            console.error("Failed to fetch data:", error);
+          });
+      })
+      .catch(error => {
+        console.error("Failed to fetch data:", error);
+      });
+  </script>
+
+</head>
+<body>
+  <div class="grid">
+    <div id="stats-container1" class="grid-item"></div>
+    <div id="stats-container2" class="grid-item"></div>
+  </div>
+
+</body>
+</html>
+
+<script src="https://giscus.app/client.js"
+        data-repo="Cagedbird1/decred-giscus"
+        data-repo-id="R_kgDOJjLJEg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOJjLJEs4CWfeh"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
