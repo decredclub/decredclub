@@ -15,7 +15,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.footer
-  language: zh 
+  language: en
   palette: 
     # Palette toggle for light mode
     - scheme: default
