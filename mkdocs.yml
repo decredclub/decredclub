@@ -77,8 +77,8 @@ nav: #导航菜单设置
    - DCR-USDT:  news/price/dcr-usdt.md
    - DCR-BTC:  news/price/dcr-btc.md
  - 应用中心:
-   - 下载中心:  404.md
-   - 使用教程:  404.md
+   - 下载中心:  application-Center/application-Center.md
+   - 使用教程:  application-Center/application-Center.md
  - Dcr文档: 
    - Decred 简介: 404.md
    - 入门: 
