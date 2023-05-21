@@ -149,8 +149,11 @@ nav: #导航菜单设置（一共设置了6个板块）
      - 贡献概述: 404.md
      - 贡献者报酬: 404.md
    - 词汇表: 404.md
-   - 关于: 
- - 行情信息: news/price/dcr-price.md
+   - 关于: 404.md
+ - 行情信息: 
+  - DCR-USDT:  news/price/dcr-price.md 
+  - DCR-BTC:  news/price/dcr-price.md 
+ 
      - 执照: 404.md
  - 应用中心:
    - 下载中心:  404.md
