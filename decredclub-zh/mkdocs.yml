@@ -15,7 +15,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.footer
-  language: zh 
+  language: zh
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -58,30 +58,28 @@ extra:
       name: Weibo
 
 
-
-
 #插件设置
 plugins:
   - search: #搜索
       lang: 
         - en
         - zh
-  - social: #社交卡片设置
-      cards_dir: assets/images/social
-      cards_color:
-        fill: "#0FF1CE"
-        text: "#FFFFFF"
-      cards_font: Ubuntu
 
 nav: #导航菜单设置（一共设置了6个板块）
  - 首页: 
    - 关于我们: index.md
  - 德信咨讯: 
-   - Decred行情: news/price/dcr-price.md
-   - Decred月报: index.md
-   - 新闻资讯: index.md    
- - 行情信息: news/price/dcr-price.md
- - 官方文档: 
+   - 新闻资讯: index.md 
+   - Dcr月报: index.md
+   - 社区活动: index.md
+   - Dcr行情讨论: news/price/dcr-price.md
+ - DCR行情评论: 
+   - DCR-USDT:  news/price/dcr-price.md 
+   - DCR-BTC:  news/price/dcr-price.md 
+ - 应用中心:
+   - 下载中心:  404.md
+   - 使用教程:  404.md
+ - Dcr文档: 
    - Decred 简介: 404.md
    - 入门: 
      - 初学者指南: 404.md
@@ -156,5 +154,3 @@ nav: #导航菜单设置（一共设置了6个板块）
    - 词汇表: 404.md
    - 关于: 
      - 执照: 404.md
- - 中文视频: index.md
- - 下载中心: index.md  
