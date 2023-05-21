@@ -1,3 +1,5 @@
 # decredclub-zh
 
-decred俱乐部源码位置；测试
+decred德信俱乐部源码位置；
+
+
