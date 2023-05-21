@@ -73,11 +73,9 @@ nav: #导航菜单设置（一共设置了6个板块）
    - 关于我们: index.md
  - 德信咨讯: 
    - 新闻资讯: index.md 
-   - Dcr行情: news/price/dcr-price.md
    - Dcr月报: index.md
    - 社区活动: index.md
-      
- - 行情信息: news/price/dcr-price.md
+   - Dcr行情讨论: news/price/dcr-price.md
  - Dcr中文文档: 
    - Decred 简介: 404.md
    - 入门: 
@@ -152,6 +150,7 @@ nav: #导航菜单设置（一共设置了6个板块）
      - 贡献者报酬: 404.md
    - 词汇表: 404.md
    - 关于: 
+ - 行情信息: news/price/dcr-price.md
      - 执照: 404.md
  - 应用中心:
    - 下载中心:  404.md
