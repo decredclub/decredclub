@@ -3,8 +3,11 @@
 # **欢迎来到德信俱乐部（Welcome to decred club！）**
 
 
-<h3 class="txt2">本网站由decred社区资助开发与维护</h3>
-
+<h3 class="txt2">本网站由decred社区开发与维护</h3>
+<h3 class="txt2">网站主要分为3大块内容，dcr资讯信息，中文文档，应用中心</h3>
+<p class="txt2">dcr资讯信息：decred行情，decred最新的开发进展、及其加密货币相关的资讯信息</p>
+<p class="txt2">中文文档：为方便中文读者更好的阅读decred文档和交流，对于英文基础好的朋友可以直接查看原版文档，如果有任何错误欢迎大家提出，我们一起改正！</p>
+<p class="txt2">应用中心：主要方便中文环境下载decred的相关软件和使用软件</p>
 <!DOCTYPE html>
 <html>
 <head>
