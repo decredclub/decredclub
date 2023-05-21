@@ -67,7 +67,6 @@ plugins:
         - en
         - zh
 
-
 nav: #导航菜单设置（一共设置了6个板块）
  - 首页: 
    - 关于我们: index.md
@@ -76,6 +75,12 @@ nav: #导航菜单设置（一共设置了6个板块）
    - Dcr月报: index.md
    - 社区活动: index.md
    - Dcr行情讨论: news/price/dcr-price.md
+ - DCR行情评论: 
+   - DCR-USDT:  news/price/dcr-price.md 
+   - DCR-BTC:  news/price/dcr-price.md 
+ - 应用中心:
+   - 下载中心:  404.md
+   - 使用教程:  404.md
  - Dcr文档: 
    - Decred 简介: 404.md
    - 入门: 
@@ -149,12 +154,5 @@ nav: #导航菜单设置（一共设置了6个板块）
      - 贡献概述: 404.md
      - 贡献者报酬: 404.md
    - 词汇表: 404.md
-   - 关于: 404.md
- - 行情信息: 
-  - DCR-USDT:  news/price/dcr-price.md 
-  - DCR-BTC:  news/price/dcr-price.md 
- 
+   - 关于: 
      - 执照: 404.md
- - 应用中心:
-   - 下载中心:  404.md
-   - 使用教程:  404.md
