@@ -76,7 +76,7 @@ nav: #导航菜单设置（一共设置了6个板块）
    - Dcr月报: index.md
    - 社区活动: index.md
    - Dcr行情讨论: news/price/dcr-price.md
- - Dcr中文文档: 
+ - Dcr文档: 
    - Decred 简介: 404.md
    - 入门: 
      - 初学者指南: 404.md
