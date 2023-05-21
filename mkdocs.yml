@@ -74,7 +74,8 @@ nav: #导航菜单设置（一共设置了6个板块）
  - 德信咨讯: 
    - Dcr行情: news/price/dcr-price.md
    - Dcr月报: index.md
-   - 新闻资讯: index.md    
+   - 新闻资讯: index.md
+   - 活动信息: 404.md
  - 行情信息: news/price/dcr-price.md
  - Dcr中文文档: 
    - Decred 简介: 404.md
