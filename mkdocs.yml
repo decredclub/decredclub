@@ -89,10 +89,10 @@ nav: #导航菜单设置
    - Decred 简介: Decred Documentation/Introduction/Decred介绍.md
    - 入门: 
      - 初学者指南: Decred Documentation/03Getting Started/Beginner’s Guide/初学者指南.md
-     - 项目历史: 404.md
-     - 获取DCR: 404.md
-     - 使用区块浏览器: 404.md
-     - 加入矩阵: 404.md
+     - 项目历史: Decred Documentation/Introduction/Decred的项目历史.md
+     - 获取DCR: Decred Documentation/Introduction/获取 Decred.md
+     - 使用区块浏览器: Decred Documentation/Introduction/使用区块浏览器.md
+     - 加入矩阵: Decred Documentation/Introduction/加入 Matrix 上的 Decred 社区
      - 文章与媒体: 404.md
      - 业务简介: 404.md
    - 治理:
