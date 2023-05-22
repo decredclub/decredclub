@@ -79,11 +79,11 @@
 </head>
 <body>
   <div class="grid">
-    <div class="grid-item red" onclick="joinTelegramGroup()">
-      板块
+    <div class="grid-item blue" onclick="location.href='Decred-Documentation/Introduction/Decred简介/'">
+      DCR中文文档
     </div>
-    <div class="grid-item blue" onclick="location.href='newsletter.html'">
-      板块
+    <div class="grid-item red" onclick="location.href='news/price/dcr-usdt/'">
+      行情评论
     </div>
     <div class="grid-item green" onclick="location.href='market.html'">
       板块
@@ -99,7 +99,6 @@
     </div>
    </div> 
 <!-- 创建一个容器用于显示行情图 -->   
-<h2 id="__comments">decred行情信息</h2>
 <div class="container">
 </div>
 
@@ -114,47 +113,4 @@ function joinTelegramGroup() {
 <h3 class="txt1">备注：本网站仅用于客观信息的集中展示，不提供任何投资指导。所有的投资决策和风险由个人自行承担。</h3>
 <h3 id="__comments">欢迎做出评论和提出宝贵建议！</h3>
 <br>
-<!-- Insert generated snippet here -->
-<script src="https://giscus.app/client.js"
-        data-repo="Cagedbird1/decred-giscus"
-        data-repo-id="R_kgDOJjLJEg"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOJjLJEs4CWfeh"
-        data-mapping="url"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
-<script>
-    var giscus = document.querySelector("script[src*=giscus]")
-    /* Set palette on initial load */
-    var palette = __md_get("__palette")
-    if (palette && typeof palette.color === "object") {
-      var theme = palette.color.scheme === "slate" ? "dark" : "light"
-      giscus.setAttribute("data-theme", theme) 
-    }
-
-    /* Register event handlers after documented loaded */
-    document.addEventListener("DOMContentLoaded", function() {
-      var ref = document.querySelector("[data-md-component=palette]")
-      ref.addEventListener("change", function() {
-        var palette = __md_get("__palette")
-        if (palette && typeof palette.color === "object") {
-          var theme = palette.color.scheme === "slate" ? "dark" : "light"
-
-          /* Instruct Giscus to change theme */
-          var frame = document.querySelector(".giscus-frame")
-          frame.contentWindow.postMessage(
-            { giscus: { setConfig: { theme } } },
-            "https://giscus.app"
-          )
-        }
-      })
-    })
-  </script>
 
