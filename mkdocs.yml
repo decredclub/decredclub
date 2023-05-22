@@ -88,7 +88,7 @@ nav: #导航菜单设置
  - Dcr文档: 
    - Decred 简介: 404.md
    - 入门: 
-     - 初学者指南: 404.md
+     - 初学者指南: Decred Documentation/03Getting Started/Beginner’s Guide/初学者指南.md
      - 项目历史: 404.md
      - 获取DCR: 404.md
      - 使用区块浏览器: 404.md
