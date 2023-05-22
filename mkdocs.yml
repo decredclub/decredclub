@@ -86,7 +86,7 @@ nav: #导航菜单设置
    - 下载中心:  application-Center/application-Center.md
    - 使用教程:  application-Center/application-Center.md
  - Dcr文档: 
-   - Decred 简介: 404.md
+   - Decred 简介: Decred Documentation/Introduction/Decred介绍.md
    - 入门: 
      - 初学者指南: Decred Documentation/03Getting Started/Beginner’s Guide/初学者指南.md
      - 项目历史: 404.md
