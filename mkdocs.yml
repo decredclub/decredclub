@@ -15,6 +15,9 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.footer
+    - content.tabs.link
+    - navigation.instant
+    - navigation.indexes
   language: zh
   palette: 
     # Palette toggle for light mode
@@ -28,6 +31,15 @@ theme:
       toggle:
         icon: material/weather-night 
         name: Switch to dark mode
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+
+
+
 
 #页脚设置
 extra:
@@ -65,11 +77,14 @@ plugins:
         - en
         - zh
   - social: #社交卡片设置
-      cards_dir: assets/images/social
       cards_color:
         fill: "#0FF1CE"
         text: "#FFFFFF"
       cards_font: Ubuntu
+
+
+
+
 
 nav: #导航菜单设置
  - 首页: 
@@ -85,21 +100,30 @@ nav: #导航菜单设置
  - 应用中心:
    - 下载中心:  application-Center/application-Center.md
    - 使用教程:  application-Center/application-Center.md
- - Dcr文档: 
-   - Decred 简介: Decred Documentation/Introduction/Decred介绍.md
+ - Decred文档: 
+   - Decred简介: Decred-Documentation/Introduction/Decred简介.md
    - 入门: 
-     - 初学者指南: Decred Documentation/03Getting Started/Beginner’s Guide/初学者指南.md
-     - 项目历史: Decred Documentation/Introduction/Decred的项目历史.md
-     - 获取DCR: Decred Documentation/Introduction/获取 Decred.md
-     - 使用区块浏览器: Decred Documentation/Introduction/使用区块浏览器.md
-     - 加入矩阵: Decred Documentation/Introduction/加入 Matrix 上的 Decred 社区
-     - 文章与媒体: 404.md
-     - 业务简介: 404.md
+     - 初学者指南: Decred-Documentation/Getting-Started/初学者指南.md
+     - 项目历史: Decred-Documentation/Getting-Started/Decred的项目历史.md
+     - 获取DCR: Decred-Documentation/Getting-Started/获取Decred.md
+     - 使用区块浏览器: Decred-Documentation/Getting-Started/使用区块浏览器.md
+     - 加入矩阵: Decred-Documentation/Getting-Started/加入Matrix上的Decred社区.md
+     - 文章与媒体: Decred-Documentation/Getting-Started/文章与媒体.md
+     - 业务介绍: Decred-Documentation/Getting-Started/业务介绍.md
    - 治理:
-     - 治理概览: 404.md
-     - 政治学: 404.md
-     - 共识规则投票: 404.md
-     - 法令宪法: 404.md
+     - 治理概览: Decred-Documentation/Governance/治理概览.md
+     - 治理平台Politeia: 
+        - Politeia简介: Decred-Documentation/Governance/Politeia/Politeia简介.md
+        - 编写提案指南: Decred-Documentation/Governance/Politeia/编写提案指南.md
+        - 提案示例: Decred-Documentation/Governance/Politeia/提案示例.md
+        - 审查制度: Decred-Documentation/Governance/Politeia/审查制度.md
+     - 共识规则投票: 
+        - 共识规则投票概述: Decred-Documentation/Governance/Consensus/共识规则投票概述.md
+        - 如何投票: Decred-Documentation/Governance/Consensus/如何投票.md
+        - 验证选票: Decred-Documentation/Governance/Consensus/验证选票.md
+        - 共识投票存档: Decred-Documentation/Governance/Consensus/共识投票存档.md
+     - Decred宪法: Decred-Documentation/Governance/Decred宪法.md
+
    - 钱包: 
      - Decrediton（图形用户界面）: 404.md
      - CLI 钱包: 404.md
