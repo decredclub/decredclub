@@ -82,24 +82,9 @@ plugins:
         text: "#FFFFFF"
       cards_font: Ubuntu
 
-
-
-
-
 nav: #导航菜单设置
  - 首页: 
    - 关于我们: index.md
- - 德信咨讯: 
-   - 新闻资讯: index.md 
-   - Dcr月报: index.md
-   - 社区活动: index.md
-   - Dcr行情讨论: news/price/dcr-usdt.md
- - DCR行情评论: 
-   - DCR-USDT:  news/price/dcr-usdt.md
-   - DCR-BTC:  news/price/dcr-btc.md
- - 应用中心:
-   - 下载中心:  application-Center/application-Center.md
-   - 使用教程:  application-Center/application-Center.md
  - Decred文档: 
    - Decred简介: Decred-Documentation/Introduction/Decred简介.md
    - 入门: 
@@ -123,7 +108,6 @@ nav: #导航菜单设置
         - 验证选票: Decred-Documentation/Governance/Consensus/验证选票.md
         - 共识投票存档: Decred-Documentation/Governance/Consensus/共识投票存档.md
      - Decred宪法: Decred-Documentation/Governance/Decred宪法.md
-
    - 钱包: 
      - Decrediton（图形用户界面）: 404.md
      - CLI 钱包: 404.md
@@ -184,3 +168,14 @@ nav: #导航菜单设置
    - 词汇表: 404.md
    - 关于: 
      - 执照: 404.md
+ - 德信咨讯: 
+   - 新闻资讯: index.md 
+   - Dcr月报: index.md
+   - 社区活动: index.md
+   - Dcr行情讨论: news/price/dcr-usdt.md
+ - DCR行情评论: 
+   - DCR-USDT:  news/price/dcr-usdt.md
+   - DCR-BTC:  news/price/dcr-btc.md
+ - 应用中心:
+   - 下载中心:  application-Center/application-Center.md
+   - 使用教程:  application-Center/application-Center.md
