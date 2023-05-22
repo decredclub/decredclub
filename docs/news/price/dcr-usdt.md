@@ -42,13 +42,13 @@
 }
 </style>
 
-<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+<script type="text/javascript" src="../js/tv.js"></script>
 
 </head>
 <body>
 <!-- 创建一个容器用于显示行情图 -->   
 <div class="container">
-    <div id="tradingview-widget-container2" style="width: 100%; height: 100%;"></div>
+    <div id="tradingview-widget-container2" style="width: 100%; height: 100%;">查看行情需要登陆VPN</div>
 </div>
 
 <script >
