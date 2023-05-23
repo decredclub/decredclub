@@ -51,6 +51,8 @@
     <div id="tradingview-widget-container2" style="width: 100%; height: 100%;">查看行情需要登陆VPN</div>
 </div>
 
+
+
 <script >
 function joinTelegramGroup() {
   window.location.href = 'https://t.me/decredzh';  // 替换为电报群的URL

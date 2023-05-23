@@ -83,37 +83,52 @@ plugins:
       cards_font: Ubuntu
 
 nav: #导航菜单设置
- - 首页: 
-   - 关于我们: index.md
+ - 首页:
+   - 首页: index.md
  - Decred文档: 
-   - Decred简介: Decred-Documentation/Introduction/Decred简介.md
+   - Decred简介: Documentation/Introduction/Decred简介.md
    - 入门: 
-     - 初学者指南: Decred-Documentation/Getting-Started/初学者指南.md
-     - 项目历史: Decred-Documentation/Getting-Started/Decred的项目历史.md
-     - 获取DCR: Decred-Documentation/Getting-Started/获取Decred.md
-     - 使用区块浏览器: Decred-Documentation/Getting-Started/使用区块浏览器.md
-     - 加入矩阵: Decred-Documentation/Getting-Started/加入Matrix上的Decred社区.md
-     - 文章与媒体: Decred-Documentation/Getting-Started/文章与媒体.md
-     - 业务介绍: Decred-Documentation/Getting-Started/业务介绍.md
+     - 初学者指南: Documentation/Getting-Started/初学者指南.md
+     - 项目历史: Documentation/Getting-Started/Decred的项目历史.md
+     - 获取DCR: Documentation/Getting-Started/获取Decred.md
+     - 使用区块浏览器: Documentation/Getting-Started/使用区块浏览器.md
+     - 加入社区: Documentation/Getting-Started/加入Matrix上的Decred社区.md
+     - 文章与媒体: Documentation/Getting-Started/文章与媒体.md
+     - 业务介绍: Documentation/Getting-Started/业务介绍.md
    - 治理:
-     - 治理概览: Decred-Documentation/Governance/治理概览.md
+     - 治理概览: Documentation/Governance/治理概览.md
      - 治理平台Politeia: 
-        - Politeia简介: Decred-Documentation/Governance/Politeia/Politeia简介.md
-        - 编写提案指南: Decred-Documentation/Governance/Politeia/编写提案指南.md
-        - 提案示例: Decred-Documentation/Governance/Politeia/提案示例.md
-        - 审查制度: Decred-Documentation/Governance/Politeia/审查制度.md
+        - Politeia简介: Documentation/Governance/Politeia/Politeia简介.md
+        - 编写提案指南: Documentation/Governance/Politeia/编写提案指南.md
+        - 提案示例: Documentation/Governance/Politeia/提案示例.md
+        - 审查制度: Documentation/Governance/Politeia/审查制度.md
      - 共识规则投票: 
-        - 共识规则投票概述: Decred-Documentation/Governance/Consensus/共识规则投票概述.md
-        - 如何投票: Decred-Documentation/Governance/Consensus/如何投票.md
-        - 验证选票: Decred-Documentation/Governance/Consensus/验证选票.md
-        - 共识投票存档: Decred-Documentation/Governance/Consensus/共识投票存档.md
-     - Decred宪法: Decred-Documentation/Governance/Decred宪法.md
+        - 共识规则投票概述: Documentation/Governance/Consensus/共识规则投票概述.md
+        - 如何投票: Documentation/Governance/Consensus/如何投票.md
+        - 验证选票: Documentation/Governance/Consensus/验证选票.md
+        - 共识投票存档: Documentation/Governance/Consensus/共识投票存档.md
+     - Decred宪法: Documentation/Governance/Decred宪法.md
    - 钱包: 
-     - Decrediton（图形用户界面）: 404.md
-     - CLI 钱包: 404.md
-     - 特殊目的公司: 404.md
-     - 硬件钱包: 404.md
-     - 手机钱包: 404.md
+     - Decrediton（GUI图形用户界面）钱包: 
+        - Decrediton钱包设置: Documentation/Wallets/Decrediton (GUI)/Decrediton-Setup.md
+        - 使用Decrediton钱包: Documentation/Wallets/Decrediton (GUI)/Using-Decrediton.md
+        - 升级Decrediton钱包: Documentation/Wallets/Decrediton (GUI)/Upgrading Decrediton.md
+        - 迁移: Documentation/Wallets/Decrediton (GUI)/Migrations.md
+        - Trezor钱包: Documentation/Wallets/Decrediton (GUI)/Trezor Wallets.md
+        - 常见问题: Documentation/Wallets/Decrediton (GUI)/Troubleshooting Problems.md
+     - 命令行（CLI）钱包: 
+        - CLI安装: Documentation/Wallets/CLI-Wallet/CLI Installation.md
+        - 操作系统差异: Documentation/Wallets/CLI-Wallet/OS Differences.md
+        - 基础配置: Documentation/Wallets/CLI-Wallet/Startup Basics.md
+        - dcrd设置: Documentation/Wallets/CLI-Wallet/dcrd Setup Guide.md
+        - dcrwallet设置: Documentation/Wallets/CLI-Wallet/dcrwallet Setup.md
+        - dcrctl基础: Documentation/Wallets/CLI-Wallet/dcrctl Basic.md
+        - 使用dcrwallet购票: Documentation/Wallets/CLI-Wallet/Buying Tickets.md
+        - dcrd和dcrwallet-CLI参数: Documentation/Wallets/CLI-Wallet/CLI Arguments.md
+        - dcrctl RPC 命令: Documentation/Wallets/CLI-Wallet/RPC Commands.md
+     - 简单支付验证(SPV): Documentation/Wallets/spv.md
+     - 硬件钱包: Documentation/Wallets/Hardware Wallets.md
+     - 手机钱包: Documentation/Wallets/Mobile-Wallets.md
    - 权益证明投票:
      - PoS 投票概览: 404.md
      - 如何质押: 404.md
@@ -137,7 +152,7 @@ nav: #导航菜单设置
      - PoW 常见问题解答: 404.md
      - 常见错误和解决方案: 404.md
      - 权益证明: 404.md
-   - 先进的: 
+   - 进阶: 
      - 手动 CLI 安装: 404.md
      - 时间: 404.md
      - 验证二进制文件: 404.md
@@ -169,9 +184,9 @@ nav: #导航菜单设置
    - 关于: 
      - 执照: 404.md
  - 德信咨讯: 
-   - 新闻资讯: index.md 
-   - Dcr月报: index.md
-   - 社区活动: index.md
+   - 新闻资讯: 404.md
+   - Dcr月报: 404.md
+   - 社区活动: 404.md
    - Dcr行情讨论: news/price/dcr-usdt.md
  - DCR行情评论: 
    - DCR-USDT:  news/price/dcr-usdt.md
