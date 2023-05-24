@@ -2,6 +2,7 @@
 # **欢迎来到德信俱乐部**
 ## ** Welcome to decred club！**
 
+### 本网站旨在为decred中文社区提供更好的用户体验，计划将大量的decred核心内容用中文的形式进行呈现，此外为中文社区搭建更好的交流平台！[本网站为开源项目](https://github.com/decredclub/decredclub-zh/)，欢迎您的加入与贡献！
 
 <h4 class="txt2">网站正在建设规划中，网站计划，首页作为常用的功能快捷入口，总体分为几大块：dcr中文文档、资讯信息、行情评论，应用中心</h4>
 ###  ** <center><font color=#008000>-- 快捷入口(点击下方卡片快速进入）--</font><center>**
