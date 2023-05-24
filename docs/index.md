@@ -84,10 +84,10 @@
     <div class="grid-item blue" onclick="location.href='Documentation/Introduction/Decred简介/'">
       看DCR中文文档
     </div>
-    <div class="grid-item green" onclick="location.href='https://t.me/decredclub'">
+    <div class="grid-item green" onclick="location.href='https://t.me/+xOEf_KHfAck1YmY0'">
       加入club电报
     </div>
-     <div class="grid-item yellow" onclick="location.href='https://t.me/decredclubzh'">
+     <div class="grid-item yellow" onclick="location.href='https://t.me/+BELrtbrsxBUzM2M0'">
       行情吐槽电报
     </div>
     <div class="grid-item red" onclick="location.href='news/price/dcr-usdt/'">
