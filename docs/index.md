@@ -1,5 +1,4 @@
 
-
 # **欢迎来到德信俱乐部**
 ## ** Welcome to decred club！**
 
@@ -30,7 +29,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        border-radius: 20px; /* 添加圆角效果 */
+        border-radius: 7px; /* 添加圆角效果 */
         box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3); /* 添加阴影效果 */
       }
       /* 定义风险揭示的颜色的样式 */
@@ -82,19 +81,19 @@
 <body>
     <div class="grid">
     <div class="grid-item blue" onclick="location.href='Documentation/Introduction/Decred简介/'">
-      DCR中文文档
+      看DCR中文文档
     </div>
     <div class="grid-item green" onclick="location.href='https://t.me/decredclub'">
-      加入decredclub电报
+      加入club电报频道
     </div>
     <div class="grid-item red" onclick="location.href='news/price/dcr-usdt/'">
-      查看dcr兑usdt行情
+      dcr兑usdt行情
     </div>
     <div class="grid-item yellow" onclick="location.href='https://t.me/decredclubzh'">
-      行情吐槽电报群
+      dcr行情吐槽频道
     </div>
     <div class="grid-item purple" onclick="location.href='news/price/dcr-btc/'">
-      查看dcr兑btc行情
+      dcr兑btc行情
     </div>
     <div class="grid-item orange" onclick="location.href='another-page.html'">
       还在开发中
@@ -120,5 +119,4 @@
 主要两个方面功能，下载中心，使用教程（后期可以推出视频教程），方便中文环境下更好的下载decred加密货币相关钱包软件，同时可以跳转到其他货币钱包的官方下载地址，如比特币，以太坊、罗门。。。
 
 <h4 class="txt1"><font color=red>备注：本网站为开源项目，所有信息仅用于客观信息的集中展示，不提供任何投资指导。所有的投资决策和风险由个人自行承担。</font></h4>
-
 
