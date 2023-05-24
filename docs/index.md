@@ -84,7 +84,7 @@
       看DCR中文文档
     </div>
     <div class="grid-item green" onclick="location.href='https://t.me/decredclub'">
-      加入club电报频道
+      加入club电报
     </div>
     <div class="grid-item red" onclick="location.href='news/price/dcr-usdt/'">
       dcr兑usdt行情
@@ -108,7 +108,9 @@
 </body>
 </html>
 
-###  ** <center><font color=red>--快捷入口(点击上方卡片快速进入）--</font><center>**
+###  ** <center><font color=red>-快捷入口(点击上方卡片快速进入）-</font><center>**
+   
+#### 备注：dcr行情图正常显示需要借助梯子
 ## 中文文档：
  为方便中文读者更好的阅读decred文档和交流，对于英文基础好的朋友可以直接查看原版文档，如果有任何错误欢迎大家提出，我们一起改正！
 ## dcr资讯信息：
