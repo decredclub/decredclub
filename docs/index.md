@@ -86,12 +86,13 @@
     <div class="grid-item green" onclick="location.href='https://t.me/decredclub'">
       加入club电报
     </div>
+     <div class="grid-item yellow" onclick="location.href='https://t.me/decredclubzh'">
+      行情吐槽电报
+    </div>
     <div class="grid-item red" onclick="location.href='news/price/dcr-usdt/'">
       dcr兑usdt行情
     </div>
-    <div class="grid-item yellow" onclick="location.href='https://t.me/decredclubzh'">
-      dcr行情吐槽频道
-    </div>
+
     <div class="grid-item purple" onclick="location.href='news/price/dcr-btc/'">
       dcr兑btc行情
     </div>
