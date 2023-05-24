@@ -97,8 +97,8 @@
     <div class="grid-item purple" onclick="location.href='news/price/dcr-btc/'">
       dcr兑btc行情
     </div>
-    <div class="grid-item orange" onclick="location.href='another-page.html'">
-      还在开发中
+    <div class="grid-item orange" onclick="location.href='https://twitter.com/tngmnmn3?t=XUl1zu6w-8N57nxFlfs_7g&s=09'">
+      关注dcrclub推特
     </div>
         <div class="grid-item orange" onclick="location.href='another-page.html'">
       参与xxx社区活动
