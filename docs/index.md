@@ -85,7 +85,7 @@
     <div class="grid-item blue " onclick="location.href='https://t.me/decredclub'">
       加入club电报频道
     </div>
-    <div class="grid-item orange" onclick="location.href='https://twitter.com/decredclub'">
+    <div class="grid-item blue" onclick="location.href='https://twitter.com/decredclub'">
       关注club推特
     </div>
     <div class="grid-item blue" onclick="location.href='Documentation/Introduction/Decred简介/'">
