@@ -100,8 +100,8 @@
     <div class="grid-item orange" onclick="location.href='another-page.html'">
       还在开发中
     </div>
-        <div class="grid-item orange" onclick="location.href='another-page.html'">
-      参与xxx社区活动
+        <div class="grid-item orange" onclick="location.href='https://twitter.com/decredclub'">
+      关注club推特
     </div>
     <div class="grid-item red"  onclick="location.href='another-page.html'">
       参与xxx活动
