@@ -192,5 +192,10 @@ nav: #导航菜单设置
    - DCR-USDT:  news/price/dcr-usdt.md
    - DCR-BTC:  news/price/dcr-btc.md
  - 应用中心:
-   - 下载中心:  application-Center/application-Center.md
-   - 使用教程:  application-Center/application-Center.md
+   - dcr应用中心:  application-Center/download/dcr.md
+   - dcr相关使用教程:  
+      - dcr钱包使用教程:  application-Center/tutorial/dcrWallets.md
+   - 友情链接:   application-Center/Links/link.md
+
+
+

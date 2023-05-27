@@ -2,7 +2,8 @@
 # **欢迎来到德信俱乐部**
 ## ** Welcome to decred club！**
 
-### 本网站旨在为decred中文社区提供更好的用户体验，计划将大量的decred核心内容用中文的形式进行呈现，此外为中文社区搭建更好的交流平台！[本网站为开源项目](https://github.com/decredclub/decredclub-zh/)，欢迎您的加入与贡献！
+### 本网站旨在为decred中文社区提供更好的用户体验，将大量的decred核心内容用中文的形式进行呈现，此外也是为中文社区搭建更好的交流平台！本网站为开源项目，欢迎您的加入与贡献！
+
 
 <h4 class="txt2">网站正在建设规划中，网站计划，首页作为常用的功能快捷入口，总体分为几大块：dcr中文文档、资讯信息、行情评论，应用中心</h4>
 ###  ** <center><font color=#008000>-- 快捷入口(点击下方卡片快速进入）--</font><center>**
@@ -84,21 +85,20 @@
     <div class="grid-item blue" onclick="location.href='Documentation/Introduction/Decred简介/'">
       看DCR中文文档
     </div>
-    <div class="grid-item green" onclick="location.href='https://t.me/+xOEf_KHfAck1YmY0'">
-      加入club电报
-    </div>
-     <div class="grid-item yellow" onclick="location.href='https://t.me/+BELrtbrsxBUzM2M0'">
-      行情吐槽电报
+    <div class="grid-item green" onclick="location.href='https://t.me/decredclub'">
+      加入club电报频道
     </div>
     <div class="grid-item red" onclick="location.href='news/price/dcr-usdt/'">
       dcr兑usdt行情
     </div>
-
+    <div class="grid-item yellow" onclick="location.href='https://t.me/decredclubzh'">
+      dcr行情吐槽频道
+    </div>
     <div class="grid-item purple" onclick="location.href='news/price/dcr-btc/'">
       dcr兑btc行情
     </div>
-    <div class="grid-item orange" onclick="location.href='https://twitter.com/tngmnmn3?t=XUl1zu6w-8N57nxFlfs_7g&s=09'">
-      关注dcrclub推特
+    <div class="grid-item orange" onclick="location.href='another-page.html'">
+      还在开发中
     </div>
         <div class="grid-item orange" onclick="location.href='another-page.html'">
       参与xxx社区活动
@@ -110,9 +110,7 @@
 </body>
 </html>
 
-###  ** <center><font color=red>-快捷入口(点击上方卡片快速进入）-</font><center>**
-   
-#### 备注：dcr行情图正常显示需要借助梯子
+###  ** <center><font color=red>--快捷入口(点击上方卡片快速进入）--</font><center>**
 ## 中文文档：
  为方便中文读者更好的阅读decred文档和交流，对于英文基础好的朋友可以直接查看原版文档，如果有任何错误欢迎大家提出，我们一起改正！
 ## dcr资讯信息：
