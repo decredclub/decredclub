@@ -82,11 +82,14 @@
 </head>
 <body>
     <div class="grid">
+    <div class="grid-item blue " onclick="location.href='https://t.me/decredclub'">
+      加入club电报频道
+    </div>
+    <div class="grid-item orange" onclick="location.href='https://twitter.com/decredclub'">
+      关注club推特
+    </div>
     <div class="grid-item blue" onclick="location.href='Documentation/Introduction/Decred简介/'">
       看DCR中文文档
-    </div>
-    <div class="grid-item green" onclick="location.href='https://t.me/decredclub'">
-      加入club电报频道
     </div>
     <div class="grid-item red" onclick="location.href='news/price/dcr-usdt/'">
       dcr兑usdt行情
@@ -99,9 +102,6 @@
     </div>
     <div class="grid-item orange" onclick="location.href='another-page.html'">
       还在开发中
-    </div>
-        <div class="grid-item orange" onclick="location.href='https://twitter.com/decredclub'">
-      关注club推特
     </div>
     <div class="grid-item red"  onclick="location.href='another-page.html'">
       参与xxx活动
