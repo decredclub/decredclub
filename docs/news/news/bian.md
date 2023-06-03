@@ -16,4 +16,4 @@
 
    然而，要使DCRDEX成为未来的选择，仍需克服一些挑战。首先，流动性限制是目前面临的主要问题。相较于中心化交易所，去中心化交易所的交易流动性较低，市场深度有限，可能导致较高的交易成本和价格波动。然而，随着套利机器人的增加和开发部署,以及更多稳定币的上线，预计流动性将逐渐改善，为用户提供更好的交易体验。
 
-![](https://raw.githubusercontent.com/decredclub/img/main/dcrdex%20(1).webp)   DCRDEX https://dex.decred.org/ 有潜力成为未来的选择，推动去中心化交易所的发展和普及，特别是在隐私保护意识不断增强的情况下。
+![](https://raw.githubusercontent.com/decredclub/img/main/dcrdex%20(1).webp)   [DCRDEX][dex.decred.org](https://dex.decred.org/) 有潜力成为未来的选择，推动去中心化交易所的发展和普及，特别是在隐私保护意识不断增强的情况下。
