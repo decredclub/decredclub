@@ -10,7 +10,7 @@
 
 ![](https://raw.githubusercontent.com/decredclub/img/main/v2-7827e3d3f7ac4ac82a22f1e1398e281c_720w.webp)
 
-多年来，原子交换一直被认为是最安全的跨链解决方案，然而，其操作性、流动性和速度一直是问题所在。然而，随着decred开发人员经过多年的努力和不断改进，这些问题逐渐得到解决。
+多年来，原子交换一直被认为是最安全的跨链解决方案，然而，其操作性、流动性和速度一直是问题所在。随着decred开发人员经过多年的努力和不断改进，这些问题将逐渐得到解决。
 
 ![](https://raw.githubusercontent.com/decredclub/img/main/2023-06-03-15-40-22-image.webp)
 
