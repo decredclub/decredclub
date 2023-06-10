@@ -83,9 +83,9 @@ plugins:
       cards_font: Ubuntu
 
 nav: #导航菜单设置
+
  - 首页:
    - 首页: index.md
-
  - 德信咨讯: 
    - 新闻资讯: 
      - 币安下架隐私币，DCRDEX或成未来的选择: news/news/bian.md
@@ -101,9 +101,7 @@ nav: #导航菜单设置
    - dcr相关使用教程:  
       - dcr钱包使用教程:  application-Center/tutorial/dcrWallets.md
    - 友情链接:   application-Center/Links/link.md
-   
-   
-  - Decred文档: 
+ - Decred文档: 
    - Decred简介: Documentation/Introduction/Decred简介.md
    - 入门: 
      - 初学者指南: Documentation/Getting-Started/初学者指南.md
