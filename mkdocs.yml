@@ -85,7 +85,25 @@ plugins:
 nav: #导航菜单设置
  - 首页:
    - 首页: index.md
- - Decred文档: 
+
+ - 德信咨讯: 
+   - 新闻资讯: 
+     - 币安下架隐私币，DCRDEX或成未来的选择: news/news/bian.md
+     - Decred社区：通过提供有用工具摆脱中心化交易所的影响，DigiByte社区正在积极参与: news/news/dcdex.md
+   - Dcr月报: 404.md
+   - 社区活动: 404.md
+   - Dcr行情讨论: news/price/dcr-usdt.md
+ - DCR行情评论: 
+   - DCR-USDT:  news/price/dcr-usdt.md
+   - DCR-BTC:  news/price/dcr-btc.md
+ - 应用中心:
+   - dcr应用中心:  application-Center/download/dcr.md
+   - dcr相关使用教程:  
+      - dcr钱包使用教程:  application-Center/tutorial/dcrWallets.md
+   - 友情链接:   application-Center/Links/link.md
+   
+   
+  - Decred文档: 
    - Decred简介: Documentation/Introduction/Decred简介.md
    - 入门: 
      - 初学者指南: Documentation/Getting-Started/初学者指南.md
@@ -183,21 +201,6 @@ nav: #导航菜单设置
    - 词汇表: 404.md
    - 关于: 
      - 执照: 404.md
- - 德信咨讯: 
-   - 新闻资讯: 
-     - 币安下架隐私币，DCRDEX或成未来的选择: news/news/bian.md
-     - 币安下架隐私币，DCRDEX或成未来的选择: news/news/dcdex.md
-   - Dcr月报: 404.md
-   - 社区活动: 404.md
-   - Dcr行情讨论: news/price/dcr-usdt.md
- - DCR行情评论: 
-   - DCR-USDT:  news/price/dcr-usdt.md
-   - DCR-BTC:  news/price/dcr-btc.md
- - 应用中心:
-   - dcr应用中心:  application-Center/download/dcr.md
-   - dcr相关使用教程:  
-      - dcr钱包使用教程:  application-Center/tutorial/dcrWallets.md
-   - 友情链接:   application-Center/Links/link.md
 
 
 
