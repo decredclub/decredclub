@@ -1,5 +1,7 @@
 
 # **欢迎来到德信俱乐部**
+
+
 ## ** Welcome to decred club！**
 
 ### 本网站旨在为decred中文社区提供更好的用户体验，将大量的decred核心内容用中文的形式进行呈现，此外也是为中文社区搭建更好的交流平台！本网站为开源项目，欢迎您的加入与贡献！
@@ -11,14 +13,6 @@
 <head>
    <title>网页标题</title>
    <style>
-      body {
-        background-color: #262626;
-        color: #fff;
-        font-family: Arial, sans-serif;
-        text-align: center;
-        padding: 20px;
-      }
-
       .card-container {
         display: flex;
         justify-content: center;
