@@ -38,9 +38,6 @@ markdown_extensions:
       alternate_style: true 
 
 
-
-
-
 #页脚设置
 extra:
   social:
@@ -102,15 +99,15 @@ nav: #导航菜单设置
 #      - dcr钱包使用教程:  application-Center/tutorial/dcrWallets.md
 #   - 友情链接:   application-Center/Links/link.md
 
- # - Decred文档: 
- #   - Decred简介: Documentation/Introduction/Decred简介.md
- #   - 入门: 
- #     - 初学者指南: Documentation/Getting-Started/初学者指南.md
- #     - 项目历史: Documentation/Getting-Started/Decred的项目历史.md
- #     - 获取DCR: Documentation/Getting-Started/获取Decred.md
- #     - 使用区块浏览器: Documentation/Getting-Started/使用区块浏览器.md
- #     - 加入社区: Documentation/Getting-Started/加入Matrix上的Decred社区.md
- #     - 文章与媒体: Documentation/Getting-Started/文章与媒体.md
+ - Decred文档: 
+   - Decred简介: Documentation/Introduction/Decred简介.md
+   - 入门: 
+     - 初学者指南: Documentation/Getting-Started/初学者指南.md
+     - 项目历史: Documentation/Getting-Started/Decred的项目历史.md
+     - 获取DCR: Documentation/Getting-Started/获取Decred.md
+     - 使用区块浏览器: Documentation/Getting-Started/使用区块浏览器.md
+     - 加入社区: Documentation/Getting-Started/加入Matrix上的Decred社区.md
+     - 文章与媒体: Documentation/Getting-Started/文章与媒体.md
  #     - 业务介绍: Documentation/Getting-Started/业务介绍.md
  #   - 治理:
  #     - 治理概览: Documentation/Governance/治理概览.md
