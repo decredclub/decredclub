@@ -11,15 +11,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title>网页标题</title>
    <style>
       .card-container {
         display: flex;
-        justify-content: center;
         gap: 20px;
         flex-wrap: wrap;
       }
-
       .card {
         background-color: #0099ff;
         border-radius: 10px;
