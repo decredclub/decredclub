@@ -28,17 +28,15 @@
       h2 {
         font-size: 25px;
         margin-bottom: 10px;
-        background-color: #4051B5;
       }
 
       p {
         font-size: 16px;
         margin-bottom: 10px;
-        background-color: #4051B5;
       }
 
       .button {
-        background-color: #ff4d4d;
+        background-color: #4051B5;
         color: #fff;
         border: none;
         border-radius: 5px;
