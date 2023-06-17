@@ -6,8 +6,6 @@
 
 ### 本网站旨在为decred中文社区提供更好的用户体验，将大量的decred核心内容用中文的形式进行呈现，此外也是为中文社区搭建更好的交流平台！本网站为开源项目，欢迎您的加入与贡献！
 
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,7 +16,7 @@
         flex-wrap: wrap;
       }
       .card {
-        background-color: #39CFAE;
+        background-color: #4051B5;
         border-radius: 10px;
         padding: 10px;
         width: 300px;
@@ -36,7 +34,7 @@
       }
 
       .button {
-        background-color: #4051B5;
+        background-color: #39CFAE;
         color: #fff;
         border: none;
         border-radius: 5px;
