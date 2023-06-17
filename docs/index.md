@@ -26,7 +26,7 @@
       }
 
       h2 {
-        font-size: 20px;
+        font-size: 25px;
         margin-bottom: 10px;
       }
 
