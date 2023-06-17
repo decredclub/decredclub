@@ -18,9 +18,9 @@
         flex-wrap: wrap;
       }
       .card {
-        background-color: #0099ff;
+        background-color: #39CFAE;
         border-radius: 10px;
-        padding: 20px;
+        padding: 10px;
         width: 300px;
         box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
       }
