@@ -90,6 +90,8 @@ nav: #导航菜单设置
    - Dcr月报: 404.md
    - 社区活动: 404.md
    - Dcr行情讨论: news/price/dcr-usdt.md
+ - 研究:
+   - 权力下放简史：research/How did we get here_ A brief history of decentralization.md
  - DCR行情: 
    - DCR-USDT:  news/price/dcr-usdt.md
    - DCR-BTC:  news/price/dcr-btc.md
