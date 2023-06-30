@@ -1,6 +1,6 @@
 # **权力下放简史**
 
-<img src="https://github.com/Decred-CN/articles/blob/master/img/FAIL--7-.png" >
+![](https://github.com/Decred-CN/articles/blob/master/img/FAIL--7-.png?raw=true)
 
 作者：Joao Paulo Sant'Anna da Silva
 
@@ -10,7 +10,7 @@
 
 > “法国大革命始于推动权力下放……[但最终成为]集权的延伸。”
 
-![](https://github.com/Decred-CN/articles/blob/master/img/image-9.png)
+![](https://github.com/Decred-CN/articles/blob/master/img/image-9.png?raw=true)
 
 亚历克西斯·托克维尔，权力下放哲学家
 
@@ -23,7 +23,7 @@
 
 ## 印刷机
 
-![](https://github.com/Decred-CN/articles/blob/master/img/image-10.png)
+![](https://github.com/Decred-CN/articles/blob/master/img/image-10.png?raw=true)
 
 随着印刷机的出现，书籍开始在民间流行起来
 
