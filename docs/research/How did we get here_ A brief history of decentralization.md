@@ -10,7 +10,7 @@
 
 > “法国大革命始于推动权力下放……[但最终成为]集权的延伸。”
 
-![](https://github.com/Decred-CN/img/image-9.png)
+![](https://github.com/Decred-CN/articles/blob/master/img/image-9.png)
 
 亚历克西斯·托克维尔，权力下放哲学家
 
@@ -23,7 +23,7 @@
 
 ## 印刷机
 
-![](https://github.com/Decred-CN/img/image-10.png)
+![](https://github.com/Decred-CN/articles/blob/master/img/image-10.png)
 
 随着印刷机的出现，书籍开始在民间流行起来
 
@@ -36,7 +36,7 @@
 
 ## 互联网
 
-![](https://github.com/Decred-CN/img/image-11.png)
+![](https://github.com/Decred-CN/articles/blob/master/img/image-11.png)
 
 互联网将世界各地的人们联系在一起
 
@@ -69,7 +69,7 @@ Decred 非常重视创建一个包容性的社区。鼓励在Matrix、Twitter和
 
 Decred 优先考虑决策过程和整体运营的透明度。每笔支出都是公开的，并且该项目的代码是开源的，使任何人都可以审查该项目。
 
-![](https://github.com/Decred-CN/img/Captura-de-Tela-2023-06-25-a-s-15.16.56.png)
+![](https://github.com/Decred-CN/articles/blob/master/img/Captura-de-Tela-2023-06-25-a-s-15.16.56.png)
 
 Decred 区块浏览器是 Decred 透明度精神的一个很好的例子
 
