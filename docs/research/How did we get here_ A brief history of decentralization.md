@@ -1,4 +1,4 @@
-# 权力下放简史
+# **权力下放简史**
 
 ![](img/FAIL--7-.png)
 
@@ -49,7 +49,7 @@ Bison Relay 是与大型科技中心化网络相反的应用程序的一个很�
 
 ## 区块链/加密货币
 
-![](img/Blockchain.png)
+![](https://github.com/Decred-CN/articles/blob/master/img/FAIL--7-.png)
 
 区块链的创建是金融去中心化的重要一步
 
