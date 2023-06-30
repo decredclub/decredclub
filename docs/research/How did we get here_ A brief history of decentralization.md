@@ -1,6 +1,6 @@
 # **权力下放简史**
 
-![](img/FAIL--7-.png)
+![](https://github.com/Decred-CN/articles/blob/master/img/FAIL--7-.png)
 
 作者：Joao Paulo Sant'Anna da Silva
 
