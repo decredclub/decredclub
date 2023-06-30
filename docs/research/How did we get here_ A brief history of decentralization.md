@@ -36,7 +36,7 @@
 
 ## 互联网
 
-![](https://github.com/Decred-CN/articles/blob/master/img/image-11.png)
+![](https://github.com/Decred-CN/articles/blob/master/img/image-11.png?raw=true)
 
 互联网将世界各地的人们联系在一起
 
@@ -49,7 +49,7 @@ Bison Relay 是与大型科技中心化网络相反的应用程序的一个很�
 
 ## 区块链/加密货币
 
-![](https://github.com/Decred-CN/articles/blob/master/img/FAIL--7-.png)
+![](https://github.com/Decred-CN/articles/blob/master/img/FAIL--7-.png?raw=true)
 
 区块链的创建是金融去中心化的重要一步
 
@@ -69,7 +69,7 @@ Decred 非常重视创建一个包容性的社区。鼓励在Matrix、Twitter和
 
 Decred 优先考虑决策过程和整体运营的透明度。每笔支出都是公开的，并且该项目的代码是开源的，使任何人都可以审查该项目。
 
-![](https://github.com/Decred-CN/articles/blob/master/img/Captura-de-Tela-2023-06-25-a-s-15.16.56.png)
+![](https://github.com/Decred-CN/articles/blob/master/img/Captura-de-Tela-2023-06-25-a-s-15.16.56.png?raw=true)
 
 Decred 区块浏览器是 Decred 透明度精神的一个很好的例子
 
